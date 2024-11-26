@@ -3,4 +3,4 @@ Selenium Automation with Java This repository contains a collection of automatio
 <br>
 This is contains automation only.
 <br>
-<B>Added another/<b>
+<B>Added another</B>
